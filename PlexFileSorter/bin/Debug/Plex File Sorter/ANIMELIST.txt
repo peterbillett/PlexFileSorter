@@ -1,0 +1,223 @@
+~NAME~,~SEARCH TERM~,~SEASON~,~EPISODE OFFSET~,~STORAGE DRIVE LETTER~
+Baki (2018),baki,01,0,H
+Shingeki no Kyojin,no kyojin,03,37,H
+Emiya-san Chi no Kyou no Gohan,chi no kyou no gohan,01,0,H
+Island,island,01,0,H
+Shoujo Kageki Revue Starlight,shoujo kageki revue starlight,01,0,H
+Yuragi-sou no Yuuna-san,yuragi-sou no yuuna-san,01,0,H
+Grand Blue,grand blue,01,0,H
+Happy Sugar Life,happy sugar life,01,0,H
+Lord of Vermilion,lord of vermilion,01,0,H
+Angolmois,angolmois,01,0,H
+OverLord,overlord,03,0,H
+Asobi Asobase,asobi asobase,01,0,H
+Kyoto Teramachi Sanjou no Holmes,kyoto teramachi sanjou no holmes,01,0,H
+Hyakuren no Haou to Seiyaku no Valkyria,hyakuren no haou to seiyaku no valkyria,01,0,H
+Hataraku Saibou,hataraku saibou,01,0,H
+Planet With,planet with,01,0,H
+Chio-chan no Tsuugakuro,chan no tsuugakuro,01,0,H
+Satsuriku no Tenshi,satsuriku no tenshi,01,0,H
+Harukana Receive,harukana receive,01,0,H
+Isekai Maou to Shoukan Shoujo no Dorei Majutsu,shoukan shoujo no dorei majutsu,01,0,H
+Shichisei no Subaru,shichisei no subaru,01,0,H
+Banana Fish,banana fish,01,0,H
+Super Dragon Ball Heroes,super dragon ball heroes,01,0,H
+Chuukan Kanriroku Tonegawa,chuukan kanriroku tonegawa,01,0,H
+Yama no Susume,yama no susume,03,0,H
+Hanebado!,hanebado,01,0,H
+To Be Hero,to be heroine,02,0,H
+Isekai Izakaya Koto Aitheria no Izakaya Nobu,koto aitheria no izakaya nobu,01,0,H
+The Seven Deadly Sins,nanatsu no taizai,02,0,H
+Uma Musume Pretty Derby,uma musume,01,0,H
+Full Metal Panic!,full metal panic,04,0,H
+Wotaku ni Koi wa Muzukashii,wotaku ni koi wa muzukashii,01,0,H
+High School DxD,high school dxd,04,0,H
+Steins Gate 0,steins gate 0,01,0,H
+Golden Kamuy,golden kamuy,01,0,H
+Fumikiri Jikan,fumikiri jikan,01,0,H
+Cutie Honey Universe,cutie honey universe,01,0,H
+Nil Admirari no Tenbin,nil admirari no tenbin,01,0,H
+Caligula,caligula,01,0,H
+Shokugeki no Soma,shokugeki,03,0,H
+Amanchu!,amanchu,02,0,H
+Persona 5 The Animation,persona 5,01,0,H
+Sword Art Online Alternative Gun Gale Online,gun gale online,01,0,H
+Omae wa Mada Gunma wo Shiranai,omae wa mada gunma wo shiranai,01,0,H
+Lostorage Incited WIXOSS,lostorage,02,0,H
+Devils Line,devils line,01,0,H
+Spiritpact,spiritpact,02,0,H
+Boku no Hero Academia,hero academia,03,38,H
+Hinamatsuri,hinamatsuri,01,0,H
+Akkun to Kanojo,akkun to kanojo,01,0,H
+Magical Girl Site,mahou shoujo site,01,0,H
+Tada kun wa Koi wo Shinai,wa koi wo shinai,01,0,H
+Megalo Box,megalo box,01,0,H
+Comic Girls,comic girls,01,0,H
+Saredo Tsumibito wa Ryuu to Odoru,saredo tsumibito wa ryuu to odoru,01,0,H
+Alice or Alice,alice or alice,01,0,H
+Gundam Build Divers,gundam build divers,01,0,H
+Legend of the Galactic Heroes Die Neue These,legend of the galactic heroes,01,0,H
+3D Kanojo Real Girl,kanojo real girl,01,0,H
+Tachibanakan To Lie Angle,tachibanakan to lie angle,01,0,H
+Uchuu Senkan Tiramisu,uchuu senkan tiramisu,01,0,H
+Mahou Shoujo Ore,mahou shoujo ore,01,0,H
+Souten no Ken,souten no ken,02,0,H
+Gegege no Kitarou (2018),gegege no kitarou,01,0,H
+Tokyo Ghoul,tokyo ghoul,03,0,H
+Zoku Touken Ranbu,zoku touken ranbu,02,0,H
+Takunomi,takunomi,01,0,H
+Darling in the FranXX,darling in the franxx,01,0,H
+Dagashi Kashi,dagashi kashi,02,0,H
+BeatLess,beatless,01,0,H
+The Seven Deadly Sins,nanatsu no taizai imashime no nukkatsu,02,0,H
+Killing Bites,killing bites,01,0,H
+Ito Junji Collection,ito junji collection,01,0,H
+Hakyuu Houshin Engi,hakyuu houshin engi,01,0,H
+Hakumei to Mikochi,hakumei to mikochi,01,0,H
+Hakata Tonkotsu Ramens,hakata tonkotsu ramens,01,0,H
+Death March kara Hajimaru Isekai Kyousoukyoku,death march kara hajimaru isekai kyousoukyoku,01,0,H
+Koi wa Ameagari no You ni,koi wa ameagari no you ni,01,0,H
+Violet Evergarden,violet evergarden,01,0,H
+Marchen Madchen,marchen madchen,01,0,H
+Miira no Kaikata,miira no kaikata,01,0,H
+Ryuuou no Oshigoto!,ryuuou no oshigoto,01,0,H
+Karakai Jouzu no Takagi-san,karakai jouzu no takagi,01,0,H
+Basilisk,ouka ninpouchou,02,0,H
+Yowamushi Pedal,yowamushi pedal,04,0,H
+Gakuen Babysitter,gakuen babysitter,01,0,H
+Kokkoku,kokkoku,01,0,H
+Mitsuboshi Colors,mitsuboshi colors,01,0,H
+Grancrest Senki,grancrest senki,01,0,H
+Toji no Miko,toji no miko,01,0,H
+Pop Team Epic,pop team epic,01,0,H
+Citrus,citrus,01,0,H
+Slow Start,slow start,01,0,H
+Ramen Daisuki Koizumi-san,ramen daisuki koizumi-san,01,0,H
+Yuru Camp,yuru camp,01,0,H
+Sora yori mo Tooi Basho,sora yori mo tooi basho,01,0,H
+Dragon Ball Super,dragon ball super,06,131,H
+Inuyashiki,inuyashiki,01,0,H
+Boku no Kanojo ga Majimesugiru Sho-bitch na Ken,boku no kanojo ga majimesugiru,01,0,H
+Himouto! Umaru-chan,umaru-chan,02,0,H
+Hoozuki no Reitetsu,hozuki no reitetsu,02,0,H
+Kekkai Sensen,kekkai sensen,02,0,H
+Houseki no Kuni,houseki no kuni,01,0,H
+Blend S,blend s,01,0,H
+Mahou Tsukai no Yome,mahoutsukai no yome,01,0,H
+Garo - Vanishing Line,vanishing line,01,0,H
+Code Realize - Sousei no Himegimi,sousei no himegimi,01,0,H
+Yuki Yuna wa Yusha de Aru,yuki yuna wa yusha de aru,01,0,H
+Shoujo Shuumatsu Ryokou,shoujo shuumatsu ryokou,01,0,H
+Kino no Tabi (2017),kino no tabi,01,0,H
+Net-juu no Susume,juu no susume,01,0,H
+Just Because!,just because,01,0,H
+Ousama Game,ousama game,01,0,H
+Osake wa Fuufu ni Natte Kara,fuufu,01,0,H
+Black Clover,black clover,01,0,H
+URAHARA,urahara,01,0,H
+Juuni Taisen,juuni taisen,01,0,H
+Konohana Kitan,konohana kitan,01,0,H
+3-gatsu no Lion,gatsu,01,0,H
+ACCA 13th Ward Observation Department,acca,01,0,H
+Aho Girl,aho girl,01,0,F
+Akiba's Trip The Animation,akiba's trip,01,0,H
+Alice to Zouroku,zouroku,01,0,F
+All Out!!,all out,01,0,H
+Ballroom e Youkoso,ballroom e youkoso,01,0,H
+Bernard-jou Iwaku,bernard,01,0,H
+Berserk (2016),berserk,02,12,H
+Bloodivores,bloodivores,01,0,H
+Blue Exorcist,ao no exorcist,02,0,H
+Boruto (Naruto Next Generations),boruto,01,0,F
+Bungou Stray Dogs,bungou,01,0,H
+Busou Shoujo Machiavellianism,busou shoujo machiavellianism,01,0,F
+Castlevania,castlevania,01,0,H
+Centaur no Nayami,centaur no nayami,01,0,H
+Chain Chronicle,chain chronicle,01,0,H
+Chaos;Child,chaos;child,01,0,H
+Clockwork Planet,clockwork planet,01,0,F
+Chi,koneko,03,0,H
+Drifters (2016),drifters,01,0,H
+Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden Sword Oratoria,sword oratoria,01,0,F
+elDLIVE,eldlive,01,0,H
+Eromanga-sensei,eromanga,01,0,F
+Flip Flappers,flappers,01,0,H
+Fukumenkei Noise,fukumenkei noise,01,0,F
+Fuuka,fuuka,01,0,H
+Gabriel DropOut,gabriel dropout,01,0,H
+Gamers!,gamers!,01,0,F
+Gin no Guardian,gin no guardian,01,0,F
+Girlish Number,girlish number,01,0,H
+Haikyuu!!,haikyuu!!,03,0,H
+Hajimete no Gal,hajimete no gal,01,0,F
+Hand Shakers,hand shakers,01,0,H
+Hibike! Euphonium,euphonium,02,0,H
+Hinako Note,hinako note,01,0,F
+Interviews with Monster Girls,demi-chan wa kataritai,01,0,H
+Isekai Shokudou,isekai shokudou,01,0,F
+Jigoku Shoujo,jigoku shoujo,02,0,F
+Jikan no Shihaisha,jikan no shihaisha,01,0,F
+JoJo's Bizarre Adventure,bizarre adventure,03,0,H
+Katsugeki Touken Ranbu,katsugeki touken ranbu,01,0,F
+Keijo!!!!!!!!,keijo,01,0,H
+Knight's & Magic,knight's & magic,01,0,F
+Koi to Uso,koi to uso,01,0,F
+Konbini Kareshi,konbini kareshi,01,0,F
+Kono Subarashii Sekai ni Shukufuku wo!,kono subarashii,02,0,H
+Koro-sensei Quest!,koro-sensei,01,0,H
+Little Witch Academia,little witch academia,01,0,H
+Made in Abyss,made in abyss,01,0,H
+Mahou Shoujo Ikusei Keikaku,ikusei keikaku,01,0,H
+Masamune-kun no Revenge,masamune-kun,01,0,H
+Miss Kobayashi's Dragon Maid,chi no maid dragon,01,0,H
+Mobile Suit Gundam - Iron Blooded Orphans,blooded orphans,01,0,H
+Mobile Suit Gundam Thunderbolt,gundam thunderbolt,02,0,H
+Monster Hunter Stories Ride On,monster hunter,01,0,H
+Nana Maru San Batsu,nana maru san batsu,01,0,F
+Nanbaka,nanbaka,02,13,H
+Natsume Yuujinchou,yuujinchou,06,0,H
+New Game!,new game!!,02,0,H
+Nora to Oujo no Noraneko Heart,nora to oujo no noraneko heart,01,0,F
+Okusama ga Seitokaichou!,okusama,02,0,H
+One Piece,one piece,19,779,F
+One Room,one room,01,0,H
+Oushitsu Kyoushi Haine,oushitsu kyoushi haine,01,0,F
+Piace Watashi no Italian,watashi no italian,01,0,H
+Princess Principal,princess principal,01,0,F
+Pokemon,pocket monsters,18,0,F
+Re Creators,creators,01,0,F
+Regalia - The Three Sacred Stars,regalia,01,0,H
+Renai Boukun,renai boukun,01,0,F
+Rokudenashi Majutsu Koushi to Akashic Records,rokudenashi majutsu,01,0,F
+Rewrite,rewrite,01,0,H
+Room Mate,room mate,01,0,F
+Saenai Heroine no Sodatekata,saekano s,02,0,H
+Saiyuki Reload Blast,saiyuki reload blast,01,0,F
+Saenai Heroine no Sodatekata,saenai heroine,02,0,H
+Sakurada Reset,sagrada reset,01,0,F
+Sakurada Reset,sakurada reset,01,0,F
+Sakura Quest,sakura quest,01,0,F
+Saiki Kusuo no Psi-nan,saiki kusuo,01,0,H
+Scum's Wish,kuzu no honkai,01,0,H
+Seikaisuru Kado,seikaisuru kado,01,0,F
+Seiren,seiren,01,0,H
+Shingeki no Bahamut,shingeki no bahamut,02,0,F
+Showa Genroku Rakugo Shinju,genroku rakugo shinjuu,02,0,H
+Shoukoku no Altair,shoukoku no altair,01,0,F
+Sousei no Onmyouji,onmyouji,01,0,H
+Soushin Shoujo Matoi,soushin shoujo,01,0,H
+Super Lovers,super lovers,02,0,H
+Shuumatsu Nani Shitemasu ka Isogashii Desu ka Sukutte Moratte Ii Desu ka,shuumatsu nani shitemasuka,01,0,F
+Tenshi no 3P!,tenshi no 3p!,01,0,F
+The Reflection Wave One,the reflection,01,0,H
+Trickster,trickster,01,0,H
+Tsugumomo,tsugumomo,01,0,F
+Tsuki ga Kirei,tsuki ga kirei,01,0,F
+Tsurezure Children,tsurezure children,01,0,F
+Uchouten Kazoku,uchouten kazoku,02,0,H
+Urara Meirochou,urara meirochou,01,0,H
+Warau Salesman New,warau salesman,01,0,F
+Youjo Senki,youjo senki,01,0,H
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,youkoso jitsuryoku shijou shugi no kyoushitsu e,01,0,F
+Yowamushi Pedal,yowamushi pedal,03,0,H
+Zero kara Hajimeru Mahou no Sho,zero kara hajimeru mahou no sho,01,0,F

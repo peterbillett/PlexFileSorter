@@ -1,0 +1,1 @@
+C:\TFS_Workspace\GIS_Programs\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\CSharp_FileSystemWatcher.exe.config
