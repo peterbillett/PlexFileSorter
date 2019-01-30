@@ -1,0 +1,7 @@
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorterInstaller\bin\Debug\PlexFileSorterInstaller.msi
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorterInstaller\bin\Debug\PlexFileSorterInstaller.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\PlexFileSorterInstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\PlexFileSorterInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\PlexFileSorterInstaller.wixproj.BindBuiltOutputsFileListnull.txt
+obj\Debug\CustomUI.wixobj

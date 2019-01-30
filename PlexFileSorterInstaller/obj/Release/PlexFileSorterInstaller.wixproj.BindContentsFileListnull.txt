@@ -1,0 +1,5 @@
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\CustomFolderSettings.xml
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\pfsdb.db
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\Plex File Sorter GUI.exe
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\x86\SQLite.Interop.dll
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\System.Data.SQLite.dll

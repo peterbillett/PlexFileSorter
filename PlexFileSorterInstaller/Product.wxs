@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi"><?define Plex File Sorter GUI_TargetDir=$(var.Plex File Sorter GUI.TargetDir)?>
+	<?define sourceFolder="C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\"?>
+  <Product Id="*" Name="Plex File Sorter" Language="1033" Version="1.0.0.0" Manufacturer="POD RILLETT" UpgradeCode="933b5cc5-b84b-40a7-8ef0-528e0eeca553">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+    <MediaTemplate EmbedCab="yes"/>
+    <Icon Id="icon.ico" SourceFile="$(var.sourceFolder)plex.ico"/>
+    <Property Id="ARPPRODUCTICON" Value="icon.ico" />
+
+  <!-- Directorys -->
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="APPLICATIONROOTDIRECTORY" Name="Plex File Sorter"/>
+			</Directory>
+      
+      <Directory Id="ProgramMenuFolder">
+        <Directory Id="ApplicationProgramsFolder" Name="Plex File Sorter"/>
+      </Directory>
+      
+      <Directory Id="DesktopFolder" Name="Desktop"/>
+        
+      <Directory Id="StartupFolder"/>
+
+      <Directory Id="LocalAppDataFolder">
+        <Directory Id="LocalAppDataPlexFolder" Name="Plex File Sorter"/>
+      </Directory>
+    </Directory>
+
+    <Property Id="WIXUI_INSTALLDIR" Value="APPLICATIONROOTDIRECTORY" />
+    
+  <!-- Main files -->
+		<ComponentGroup Id="ProductComponents" Directory="APPLICATIONROOTDIRECTORY">
+			<Component Id="Plex_File_Sorter_GUI.exe" Guid="c953b414-b8a8-487f-ac39-07be3c940b86">
+			  <File Id="Plex_File_Sorter_GUI.exe" Name="Plex File Sorter GUI.exe" Source="$(var.Plex File Sorter GUI_TargetDir)Plex File Sorter GUI.exe" />
+			</Component>
+      
+			<Component Id="System.Data.SQLite.dll" Guid="efa885a2-0e35-4e11-abf0-53d0941dac2d">
+			  <File Id="System.Data.SQLite.dll" Name="System.Data.SQLite.dll" Hidden="yes" Source="$(var.Plex File Sorter GUI_TargetDir)System.Data.SQLite.dll" />
+			</Component>
+    
+      <Component Id="SQLite.Interop.dll" Guid="49088CE9-2E85-42CF-8B98-4C9117FC58F9">
+			  <File Id="SQLite.Interop.dll" Name="SQLite.Interop.dll" Hidden="yes" Source="$(var.Plex File Sorter GUI_TargetDir)x86\SQLite.Interop.dll" />
+			</Component>
+    </ComponentGroup>
+
+    <ComponentGroup Id="ProgramDataComponents" Directory="LocalAppDataPlexFolder">
+      <Component Id="CustomFolderSettings.xml" Guid="2619c0da-ca37-4590-9e64-9a98d8607bc2">
+        <RemoveFolder Id="RemoveAppRootDirectoryXML" On="uninstall" />
+        <File Id="CustomFolderSettings.xml" Name="CustomFolderSettings.xml" Source="$(var.Plex File Sorter GUI_TargetDir)CustomFolderSettings.xml">
+        </File>
+        <RegistryValue Root="HKCU" Key="SOFTWARE\PlexFileSorter\xml" Action="write" Name="Version" Value="[ProductVersion]" Type="string" KeyPath="yes"/>
+      </Component>
+      <Component Id="pfsdb.db" Guid="5f89f513-0bfb-406c-8628-197ef880e578">
+        <RemoveFolder Id="RemoveAppRootDirectoryDB" On="uninstall" />
+        <File Id="pfsdb.db" Name="pfsdb.db" Source="$(var.Plex File Sorter GUI_TargetDir)pfsdb.db">
+        </File>
+        <RegistryValue Root="HKCU" Key="SOFTWARE\PlexFileSorter\db" Action="write" Name="Version" Value="[ProductVersion]" Type="string" KeyPath="yes"/>
+      </Component>
+    </ComponentGroup>
+
+    <!-- Start Menu Shortcut -->
+    <DirectoryRef Id="ApplicationProgramsFolder">
+      <Component Id="ApplicationShortcut" Guid="5AE18DDF-4D29-4CB1-B38E-99296B4789FF">
+        <RegistryValue Root="HKCU" Key="SOFTWARE\PlexFileSorter" Action="write" Name="Start Menu" Value="1" Type="integer" KeyPath="yes"/>
+        <Shortcut Id="ApplicationStartMenuShortcut" Name="Plex File Sorter" Description="Plex File Sorter" Target="[APPLICATIONROOTDIRECTORY]Plex File Sorter GUI.exe" WorkingDirectory="APPLICATIONROOTDIRECTORY"/>
+        <RemoveFolder Id="ApplicationProgramsFolder" On="uninstall"/>
+      </Component>
+    </DirectoryRef>
+
+    <!-- Desktop Shortcut -->
+    <DirectoryRef Id="DesktopFolder">
+      <Component Id="DesktopShortcut" Guid="5A419E4E-3FBF-4CAE-AB4D-DEEFD6C3FEBB">
+        <RegistryValue Root="HKCU" Key="SOFTWARE\PlexFileSorter" Action="write" Name="Desktop" Value="1" Type="integer" KeyPath="yes"/>
+        <Shortcut Id="DesktopShortcut" Directory="DesktopFolder" Name="Plex File Sorter" Target="[APPLICATIONROOTDIRECTORY]Plex File Sorter GUI.exe" WorkingDirectory="APPLICATIONROOTDIRECTORY"/>
+      </Component>
+    </DirectoryRef>
+
+    <!-- Startup Registry -->
+    <DirectoryRef Id="StartupFolder">
+      <Component Id="ApplicationShortCutStartUp" Guid="C9AE0641-7A5E-469A-AF99-9394E62CA33B">
+        <RegistryValue Root="HKCU" Action="write" Key="SOFTWARE\Microsoft\Windows\CurrentVersion\Run" Name="Plex File Sorter" Type="string" Value="&quot;[APPLICATIONROOTDIRECTORY]Plex File Sorter GUI.exe&quot; startup"/>
+      </Component>
+    </DirectoryRef>
+
+    <!-- Main program feature ~ Required -->
+    <Feature Id="ProductFeature" Title="Plex File Sorter" Level="1" Display="hidden">
+      <ComponentGroupRef Id="ProductComponents" />
+      <ComponentGroupRef Id="ProgramDataComponents" />
+    </Feature>
+
+    <!-- Start menu shortcut feature -->
+    <Feature Id="ApplicationShortcutFeature" Title="Start Menu Shortcut" Level="1">
+      <ComponentRef Id="ApplicationShortcut" />
+    </Feature>
+
+    <!-- Desktop shortcut feature -->
+    <Feature Id="DesktopShortcutFeature" Title="Desktop Shortcut" Level="1">
+      <ComponentRef Id="DesktopShortcut" />
+    </Feature>
+
+    <!-- Auto start feature-->
+    <Feature Id="ApplicationShortCutStartUpFeature" Title="Auto Start On Boot" Level="1">
+      <ComponentRef Id="ApplicationShortCutStartUp" />
+    </Feature>
+    
+    <!-- UI -->
+    <UIRef Id="CustomUI" />
+    <Property Id="LAUNCHAPPONEXIT" Value="1"></Property>
+    <WixVariable Id="WixUIDialogBmp" Value="$(var.sourceFolder)installBackground.jpg"/>
+    <WixVariable Id="WixUIBannerBmp" Value="$(var.sourceFolder)WixUIBannerBmp.jpg"/>
+    
+    <Property Id="WixShellExecTarget" Value="[#Plex_File_Sorter_GUI.exe]" />
+    <CustomAction Id="LaunchApplication" BinaryKey="WixCA" DllEntry="WixShellExec" Impersonate="yes"></CustomAction>
+    
+  </Product>
+</Wix>

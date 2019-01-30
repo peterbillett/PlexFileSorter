@@ -1,0 +1,43 @@
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\CustomFolderSettings.xml
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ShowDatabase.mdf
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\ShowDatabase_log.ldf
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Plex File Sorter GUI.exe
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Plex File Sorter GUI.pdb
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Dapper.dll
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Dapper.xml
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\PlexFileSorterGUI.BackgroundProcess.resources
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\PlexFileSorterGUI.LookupGUI.resources
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\PlexFileSorterGUI.NewShowGUI.resources
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\PlexFileSorterGUI.MainGUI.resources
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\PlexFileSorterGUI.Properties.Resources.resources
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Plex File Sorter GUI.csproj.GenerateResource.cache
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Plex File Sorter GUI.csproj.CoreCompileInputs.cache
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Plex File Sorter GUI.csproj.CopyComplete
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Plex File Sorter GUI.exe
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Plex File Sorter GUI.pdb
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Plex File Sorter GUI.csprojAssemblyReference.cache
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\Plex File Sorter GUI.exe
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\System.Data.SQLite.dll
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\CustomFolderSettings.xml
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\pfsdb.db
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\Plex File Sorter GUI.exe.config
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\Plex File Sorter GUI.pdb
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\EntityFramework.dll
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\EntityFramework.xml
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\System.Data.SQLite.xml
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\bin\Release\System.Data.SQLite.dll.config
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\PlexFileSorterGUI.BackgroundProcess.resources
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\PlexFileSorterGUI.FolderSettings.resources
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\PlexFileSorterGUI.LookupGUI.resources
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\PlexFileSorterGUI.NewShowGUI.resources
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\PlexFileSorterGUI.MainGUI.resources
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\PlexFileSorterGUI.Properties.Resources.resources
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\Plex File Sorter GUI.csproj.GenerateResource.cache
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\Plex File Sorter GUI.csproj.CoreCompileInputs.cache
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\Plex File Sorter GUI.csproj.CopyComplete
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\Plex File Sorter GUI.exe
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorter\obj\Release\Plex File Sorter GUI.pdb

@@ -1,0 +1,2 @@
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorterInstaller\bin\Debug\PlexFileSorterInstaller.msi
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorterInstaller\bin\Debug\PlexFileSorterInstaller.wixpdb

@@ -1,0 +1,10 @@
+C:\Users\Mango\source\repos\WindowsFormsApp2\PlexFileSorterInstaller\bin\Release\cab1.cab
+C:\Users\Mango\source\repos\WindowsFormsApp2\PlexFileSorterInstaller\bin\Release\PlexFileSorterInstaller.wixpdb
+C:\Users\Mango\source\repos\WindowsFormsApp2\PlexFileSorterInstaller\bin\Release\PlexFileSorterInstaller.msi
+obj\Release\CustomUI.wixobj
+obj\Release\Product.wixobj
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorterInstaller\bin\Release\PlexFileSorterInstaller.msi
+C:\Users\Mango\source\repos\PlexFileSorter\PlexFileSorterInstaller\bin\Release\PlexFileSorterInstaller.wixpdb
+obj\Release\PlexFileSorterInstaller.wixproj.BindContentsFileListnull.txt
+obj\Release\PlexFileSorterInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Release\PlexFileSorterInstaller.wixproj.BindBuiltOutputsFileListnull.txt

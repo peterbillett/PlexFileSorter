@@ -1,0 +1,14 @@
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Database1.mdf
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Database1_log.ldf
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Plex File Sorter GUI.exe.config
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Plex File Sorter GUI.exe
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Plex File Sorter GUI.pdb
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Plex File Sorter GUI.exe
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Plex File Sorter GUI.pdb
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainGUI.resources
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.NewShowGUI.resources
+C:\Users\Mango\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.LookupGUI.resources
